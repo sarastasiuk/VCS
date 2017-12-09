@@ -35,7 +35,7 @@ public class Controller {
     boolean loggedIn = false;
 
     private ApplicationService applicationService = new ApplicationService();
-
+//aaaaaaaa//
     //Funkcja uruchamiana przy starcie aplikacji
     public void initialize() {
         rightPanel.getChildren().add(new Label("Panel na komponenty"));
