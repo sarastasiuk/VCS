@@ -36,6 +36,7 @@ public class Controller {
 
     private ApplicationService applicationService = new ApplicationService();
 //aaaaaaaa//
+    //drugieaaaa///
     //Funkcja uruchamiana przy starcie aplikacji
     public void initialize() {
         rightPanel.getChildren().add(new Label("Panel na komponenty"));
